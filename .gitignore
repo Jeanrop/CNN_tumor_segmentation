@@ -1,0 +1,11 @@
+# Environnements
+env_312
+__pycache__
+.env
+
+# Data
+train_set
+val_set
+
+# Authentification
+back_up_code_Synapse.txt

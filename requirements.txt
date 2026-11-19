@@ -1,0 +1,9 @@
+torch
+torchvision
+
+synapseclient
+nibabel
+numpy
+matplotlib
+nilearn
+pandas
